@@ -1,3 +1,5 @@
+> **Morteza Rajabi edition:** [DevSecOps lab, security policy auditor and runbook](MORTEZA_EDITION.md). Original additions by [@opswithmorteza](https://github.com/opswithmorteza). The Docker samples and upstream credits are preserved below.
+
 # Awesome Compose [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![logo](awesome-compose.jpg)
